@@ -1,4 +1,5 @@
 # [Pods Framework](http://pods.io) [![Coverage Status](https://coveralls.io/repos/pods-framework/pods/badge.png)](https://coveralls.io/r/pods-framework/pods) #
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/clubduece/pods?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ![Pods Framework icon](http://pods.io/wp-content/themes/pods/images/logo-pods-header.png)
 
